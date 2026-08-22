@@ -1,0 +1,18 @@
+C:\Users\Sinclair\Desktop\temp\Prescript generator\bin\Debug\Prescript generator.exe.config
+C:\Users\Sinclair\Desktop\temp\Prescript generator\bin\Debug\Prescript generator.exe
+C:\Users\Sinclair\Desktop\temp\Prescript generator\bin\Debug\Prescript generator.pdb
+C:\Users\Sinclair\Desktop\temp\Prescript generator\obj\Debug\Prescript generator.csproj.AssemblyReference.cache
+C:\Users\Sinclair\Desktop\temp\Prescript generator\obj\Debug\Prescript generator.csproj.CoreCompileInputs.cache
+C:\Users\Sinclair\Desktop\temp\Prescript generator\obj\Debug\Prescript generator.exe
+C:\Users\Sinclair\Desktop\temp\Prescript generator\obj\Debug\Prescript generator.pdb
+C:\Users\Sinclair\Desktop\temp\Prescript generator\bin\Debug\Prescripts.txt
+C:\Users\Sinclair\Desktop\temp\Prescript generator\obj\Debug\Prescript generator.exe.config
+D:\backups\random other projects\Prescript generator\bin\Debug\Prescripts.txt
+D:\backups\random other projects\Prescript generator\bin\Debug\Prescript generator.exe.config
+D:\backups\random other projects\Prescript generator\bin\Debug\Prescript generator.exe
+D:\backups\random other projects\Prescript generator\bin\Debug\Prescript generator.pdb
+D:\backups\random other projects\Prescript generator\obj\Debug\Prescript generator.csproj.AssemblyReference.cache
+D:\backups\random other projects\Prescript generator\obj\Debug\Prescript generator.exe.config
+D:\backups\random other projects\Prescript generator\obj\Debug\Prescript generator.csproj.CoreCompileInputs.cache
+D:\backups\random other projects\Prescript generator\obj\Debug\Prescript generator.exe
+D:\backups\random other projects\Prescript generator\obj\Debug\Prescript generator.pdb
