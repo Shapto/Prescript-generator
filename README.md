@@ -33,11 +33,3 @@ Example:
 string output = Prescripts.newPrescriptText();
 Console.WriteLine(output);
 ```
-
-## Notes
-
-This project is a lightweight generator rather than a traditional application with persistent storage or a web UI. It is designed to produce varied text output from a predefined library of words and templates, making it useful for procedural writing, creative prompts, or simulated in-world task generation.
-
-## License
-
-This project does not currently include a license file. If you plan to reuse or distribute it, check the repository for any licensing information or add one before publishing.
